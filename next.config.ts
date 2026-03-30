@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/webmail/:path*",
-        destination: "https://webmail.siteground.com/:path*",
+        destination: "https://mail.elporvenirbiogrowers.com",
         permanent: false,
       },
     ];
