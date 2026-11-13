@@ -57,7 +57,7 @@ export default function TerraPreta({ t }: TerraPretaProps) {
           {/* Right — textural image */}
           <div className="relative aspect-[4/3] overflow-hidden order-first md:order-last">
             <Image
-              src="/images/terra-preta.png"
+              src="/images/terra-preta.webp"
               alt="Terra Preta — living soil"
               fill
               className="object-cover"

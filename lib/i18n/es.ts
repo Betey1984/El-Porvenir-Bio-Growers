@@ -38,7 +38,7 @@ export const es: Translations = {
     body2: "",
     detail1: "Fundado en el corredor cacaotero de las tierras altas de Colombia",
     detail2:
-      "Plataforma regenerativa · Más allá de lo orgánico · Compradores activos en Europa y Norteamérica",
+      "Plataforma regenerativa en construcción · Cero insumos sintéticos · Con vocación de conectar con compradores de Europa y Norteamérica",
   },
 
   // ─── PHILOSOPHY ──────────────────────────────────────────────────────────
@@ -50,7 +50,7 @@ export const es: Translations = {
     pillars: [
       {
         title: "El Suelo Primero",
-        body: "El suelo vivo es el fundamento de todo. Compost, biochar y cobertura vegetal permanente construyen ecosistemas subterráneos — la misma lógica que nuestros ancestros aplicaron, ahora medida y documentada.",
+        body: "El suelo vivo es el fundamento de todo. Compost, biochar y cobertura vegetal permanente construyen ecosistemas subterráneos — la misma lógica que nuestros ancestros aplicaron, que estamos aprendiendo a observar y documentar.",
       },
       {
         title: "Agroforestería",
@@ -73,7 +73,7 @@ export const es: Translations = {
     title: "La tecnología\nviva más antigua\nde la tierra",
     definition:
       "Terra Preta — tierras negras precolombinas creadas por pueblos indígenas amazónicos durante siglos mediante la integración de biochar, materia orgánica y ciclos minerales cerrados. Suelo que no se agota. Se profundiza.",
-    body: "Aplicamos estos mismos principios a través de la integración de biochar, ciclos minerales cerrados y cobertura orgánica permanente. Nuestro suelo acumula fertilidad estación tras estación en lugar de perderla. Esta es la base biológica que sostiene cada producto que cultivamos — una herencia que cuidamos, no un recurso que consumimos.",
+    body: "Aplicamos estos mismos principios a través de la integración de biochar, ciclos minerales cerrados y cobertura orgánica permanente. Buscamos fortalecer la fertilidad del suelo estación tras estación mediante seguimiento y observación. Esta es la base biológica que sostiene cada producto que cultivamos — una herencia que cuidamos, no un recurso que consumimos.",
     principles: [
       {
         ancestral: "Biochar de quema controlada",
@@ -85,7 +85,7 @@ export const es: Translations = {
       },
       {
         ancestral: "Custodia indígena de la tierra",
-        modern: "Regeneración del suelo medible",
+        modern: "Seguimiento de la salud del suelo",
       },
     ],
     ancestralHeader: "Práctica ancestral",
@@ -99,13 +99,13 @@ export const es: Translations = {
     body1:
       "El cacao no es un ingrediente. En Colombia, es un portador de memoria — presente en el ritual, el comercio y la vida cotidiana durante miles de años antes de llegar a los mercados europeos. Cultivamos estas variedades no porque sean rentables. Porque no deben perderse.",
     body2:
-      "Cacao nativo de sabor fino: altitud 400–1.200m, linaje genético excepcional, fermentación controlada, exportación directa. Un archivo vivo del origen colombiano — trazable, verificable y pensado para compradores que conocen la diferencia.",
+      "Nuestro enfoque es el cacao nativo de sabor fino. Estamos desarrollando prácticas de fermentación y documentación del origen de cada lote, con el objetivo de construir relaciones comerciales directas y explorar la exportación.",
     imageCaption: "Variedades nativas · Alto Caquetá · Colombia",
     stats: [
       { value: "400–1.200m", label: "Rango de altitud" },
       { value: "6–8 días", label: "Fermentación controlada" },
-      { value: "Sabor fino", label: "Clasificación internacional" },
-      { value: "100%", label: "Trazabilidad por lote" },
+      { value: "Sabor fino", label: "Nuestro enfoque" },
+      { value: "En desarrollo", label: "Trazabilidad por lote" },
     ],
   },
 
@@ -114,19 +114,19 @@ export const es: Translations = {
     label: "Visión de Plataforma",
     title: "Un movimiento,\nno una finca",
     subtitle:
-      "El Porvenir conecta producción regenerativa, una marca premium de cacao, trazabilidad completa y alianzas globales en una plataforma verticalmente coherente.",
+      "Estamos construyendo una plataforma que busca conectar producción regenerativa, una marca de cacao de origen, trazabilidad por lote y alianzas internacionales.",
     pillars: [
       {
         title: "Producción",
-        body: "Fincas regenerativas operadas bajo protocolos compartidos. Suelo vivo, sistemas agroforestales, genética nativa y cero insumos sintéticos — documentados en cada etapa.",
+        body: "Estamos desarrollando protocolos de producción regenerativa centrados en suelo vivo, sistemas agroforestales y genética nativa. Trabajamos con cero insumos sintéticos y buscamos documentar cada etapa.",
       },
       {
         title: "Marca Semilla Sagrada",
-        body: "La expresión premium de la plataforma. Cacao de sabor fino con cadena de custodia completa, narrativa de origen directo y posicionamiento para los compradores más exigentes de Europa y Norteamérica.",
+        body: "La marca que estamos desarrollando para expresar nuestro origen. Buscamos ofrecer cacao de sabor fino y construir una cadena de custodia documentada, con vocación de conectar con compradores de Europa y Norteamérica.",
       },
       {
         title: "Red Global",
-        body: "Relaciones activas con importadores, chocolateros finos, instituciones de investigación e inversores con propósito alineado. No buscamos escala — buscamos alineación.",
+        body: "Buscamos construir relaciones con importadores, chocolateros finos, instituciones de investigación e inversores que compartan nuestra visión.",
       },
     ],
   },
@@ -159,6 +159,6 @@ export const es: Translations = {
       "Cacao de Sabor Fino",
       "Origen Tierras Altas de Colombia",
     ],
-    copyright: "© 2024 El Porvenir Bio Growers. Todos los derechos reservados.",
+    copyright: "© 2026 El Porvenir Bio Growers. Todos los derechos reservados.",
   },
 };

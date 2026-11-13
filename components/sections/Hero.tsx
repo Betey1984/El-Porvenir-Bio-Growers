@@ -14,6 +14,9 @@ export default function Hero({ t }: HeroProps) {
       {/* ── Background video ────────────────────────────────────────────── */}
       <video
         className="absolute inset-0 w-full h-full object-cover"
+        preload="none"
+        poster="/images/hero-poster.webp"
+        aria-hidden="true"
         autoPlay
         muted
         loop

@@ -56,7 +56,7 @@ export default function About({ t }: AboutProps) {
         {/* Full-width editorial image */}
         <div className="mt-16 md:mt-28 aspect-[21/8] relative overflow-hidden">
           <Image
-            src="/images/about.jpg"
+            src="/images/about.webp"
             alt="El Porvenir — cacao farm, Colombia"
             fill
             className="object-cover"

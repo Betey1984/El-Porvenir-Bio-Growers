@@ -66,7 +66,7 @@ export default function SacredSeed({ t }: SacredSeedProps) {
           {/* Cinematic image — right, portrait */}
           <div className="order-1 md:order-2 aspect-[3/4] max-h-[70vh] md:max-h-none relative overflow-hidden">
             <Image
-              src="/images/sacredseed.jpg"
+              src="/images/sacredseed.webp"
               alt="Sacred Seed — native cacao, Colombia"
               fill
               className="object-cover"

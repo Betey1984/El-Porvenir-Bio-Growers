@@ -38,7 +38,7 @@ export const en: Translations = {
     body2: "",
     detail1: "Founded in Colombia's highland cacao corridor",
     detail2:
-      "Regenerative platform · Beyond-organic · Active buyers in Europe & North America",
+      "Regenerative platform in development · Zero synthetic inputs · Seeking connections with buyers in Europe and North America",
   },
 
   // ─── PHILOSOPHY ──────────────────────────────────────────────────────────
@@ -50,7 +50,7 @@ export const en: Translations = {
     pillars: [
       {
         title: "Soil First",
-        body: "Living soil is the foundation. Compost, biochar, and permanent plant cover build underground ecosystems — the same logic our ancestors applied, now measured and documented.",
+        body: "Living soil is the foundation. Compost, biochar, and permanent plant cover build underground ecosystems — the same logic our ancestors applied, which we are learning to observe and document.",
       },
       {
         title: "Agroforestry",
@@ -73,7 +73,7 @@ export const en: Translations = {
     title: "The oldest living\ntechnology on earth",
     definition:
       "Terra Preta — pre-Columbian dark earths created by indigenous Amazonian peoples over centuries through biochar integration, organic matter, and closed mineral cycles. Soil that does not deplete. It deepens.",
-    body: "We apply these same principles through biochar integration, closed mineral cycles, and permanent organic cover. Our soil accumulates fertility season after season rather than losing it. This is the biological foundation beneath every product we grow — an inheritance we tend, not a resource we consume.",
+    body: "We apply these same principles through biochar integration, closed mineral cycles, and permanent organic cover. We aim to strengthen soil fertility season after season through monitoring and observation. This is the biological foundation beneath every product we grow — an inheritance we tend, not a resource we consume.",
     principles: [
       {
         ancestral: "Biochar from controlled burning",
@@ -85,7 +85,7 @@ export const en: Translations = {
       },
       {
         ancestral: "Indigenous land stewardship",
-        modern: "Measurable soil regeneration",
+        modern: "Monitoring soil health",
       },
     ],
     ancestralHeader: "Ancestral practice",
@@ -99,13 +99,13 @@ export const en: Translations = {
     body1:
       "Cacao is not an ingredient. In Colombia, it is a carrier of memory — present in ritual, trade, and daily life for thousands of years before it reached European markets. We grow these varieties not because they are profitable. Because they must not be lost.",
     body2:
-      "Fine-flavor native cacao: 400–1,200m altitude, rare genetic lineage, controlled fermentation, direct export. A living archive of Colombian origin — traceable, verifiable, and built for buyers who know the difference.",
+      "Our focus is fine-flavor native cacao. We are developing fermentation practices and documentation of each lot’s origin, with the aim of building direct commercial relationships and exploring exports.",
     imageCaption: "Native varieties · Alto Caquetá · Colombia",
     stats: [
       { value: "400–1,200m", label: "Altitude range" },
       { value: "6–8 days", label: "Controlled fermentation" },
-      { value: "Fine flavor", label: "International grade" },
-      { value: "100%", label: "Lot traceability" },
+      { value: "Fine flavor", label: "Our focus" },
+      { value: "In development", label: "Lot traceability" },
     ],
   },
 
@@ -114,19 +114,19 @@ export const en: Translations = {
     label: "Platform Vision",
     title: "A movement,\nnot a farm",
     subtitle:
-      "El Porvenir connects regenerative production, a premium cacao brand, full traceability, and global partnerships into one vertically coherent platform.",
+      "We are building a platform that aims to connect regenerative production, an origin cacao brand, lot traceability, and international partnerships.",
     pillars: [
       {
         title: "Production",
-        body: "Regenerative farms operating under shared protocols. Living soil, agroforestry systems, native genetics, and zero synthetic inputs — documented at every stage.",
+        body: "We are developing regenerative production protocols centered on living soil, agroforestry systems, and native genetics. We use zero synthetic inputs and aim to document every stage.",
       },
       {
         title: "Sacred Seed Brand",
-        body: "The premium expression of the platform. Fine-flavor cacao with full chain of custody, direct-origin storytelling, and positioning for Europe and North America's most discerning buyers.",
+        body: "The brand we are developing to express our origin. We aim to offer fine-flavor cacao and build a documented chain of custody, while connecting with buyers in Europe and North America.",
       },
       {
         title: "Global Network",
-        body: "Active relationships with importers, fine chocolatiers, research institutions, and mission-aligned investors. We don't seek scale — we seek alignment.",
+        body: "We seek to build relationships with importers, fine chocolatiers, research institutions, and investors who share our vision.",
       },
     ],
   },
@@ -159,6 +159,6 @@ export const en: Translations = {
       "Fine Flavor Cacao",
       "Colombian Highland Origin",
     ],
-    copyright: "© 2024 El Porvenir Bio Growers. All rights reserved.",
+    copyright: "© 2026 El Porvenir Bio Growers. All rights reserved.",
   },
 };

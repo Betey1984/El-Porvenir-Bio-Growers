@@ -35,7 +35,7 @@ export const de: Translations = {
     body2: "",
     detail1: "Gegründet im kolumbianischen Hochland-Kakao-Korridor",
     detail2:
-      "Regenerative Plattform · Jenseits von Bio · Aktive Käufer in Europa & Nordamerika",
+      "Regenerative Plattform im Aufbau · Keine synthetischen Inputs · Kontakte zu Käufern in Europa und Nordamerika als Ziel",
   },
 
   philosophy: {
@@ -46,7 +46,7 @@ export const de: Translations = {
     pillars: [
       {
         title: "Boden zuerst",
-        body: "Lebendiger Boden ist das Fundament. Kompost, Biokohle und permanente Pflanzenbedeckung bauen unterirdische Ökosysteme auf — dieselbe Logik, die unsere Vorfahren anwandten, nun gemessen und dokumentiert.",
+        body: "Lebendiger Boden ist das Fundament. Kompost, Biokohle und permanente Pflanzenbedeckung bauen unterirdische Ökosysteme auf — dieselbe Logik, die unsere Vorfahren anwandten, die wir beobachten und dokumentieren lernen.",
       },
       {
         title: "Agroforstwirtschaft",
@@ -68,7 +68,7 @@ export const de: Translations = {
     title: "Die älteste lebendige\nTechnologie der Erde",
     definition:
       "Terra Preta — präkolumbianische Schwarzerden, geschaffen von indigenen Amazonasvölkern über Jahrhunderte durch Biokohle-Integration, organische Substanz und geschlossene Mineralkreisläufe. Boden, der sich nicht erschöpft. Er vertieft sich.",
-    body: "Wir wenden dieselben Prinzipien durch Biokohle-Integration, geschlossene Mineralkreisläufe und permanente organische Bedeckung an. Unser Boden akkumuliert Saison für Saison Fruchtbarkeit, anstatt sie zu verlieren. Dies ist das biologische Fundament unter jedem Produkt, das wir anbauen — ein Erbe, das wir pflegen, keine Ressource, die wir verbrauchen.",
+    body: "Wir wenden dieselben Prinzipien durch Biokohle-Integration, geschlossene Mineralkreisläufe und permanente organische Bedeckung an. Durch Beobachtung und Begleitung möchten wir die Bodenfruchtbarkeit Saison für Saison stärken. Dies ist das biologische Fundament unter jedem Produkt, das wir anbauen — ein Erbe, das wir pflegen, keine Ressource, die wir verbrauchen.",
     principles: [
       {
         ancestral: "Biokohle aus kontrollierter Verbrennung",
@@ -80,7 +80,7 @@ export const de: Translations = {
       },
       {
         ancestral: "Indigene Landschaftspflege",
-        modern: "Messbare Bodenregeneration",
+        modern: "Beobachtung der Bodengesundheit",
       },
     ],
     ancestralHeader: "Ancestrale Praxis",
@@ -93,13 +93,13 @@ export const de: Translations = {
     body1:
       "Kakao ist keine Zutat. In Kolumbien ist er ein Träger der Erinnerung — jahrtausende lang präsent in Ritual, Handel und Alltag, bevor er europäische Märkte erreichte. Wir züchten diese Sorten nicht, weil sie profitabel sind. Weil sie nicht verloren gehen dürfen.",
     body2:
-      "Feingeschmackiger einheimischer Kakao: 400–1.200 m Höhe, seltene Genlinien, kontrollierte Fermentation, Direktexport. Ein lebendes Archiv kolumbianischer Herkunft — rückverfolgbar, verifizierbar und für Käufer gebaut, die den Unterschied kennen.",
+      "Unser Schwerpunkt ist einheimischer Kakao mit feinem Geschmack. Wir entwickeln Fermentationsverfahren und die Dokumentation der Herkunft jeder Charge. Unser Ziel sind direkte Handelsbeziehungen und die Erkundung von Exportmöglichkeiten.",
     imageCaption: "Einheimische Sorten · Alto Caquetá · Kolumbien",
     stats: [
       { value: "400–1.200m", label: "Höhenstufe" },
       { value: "6–8 Tage", label: "Kontrollierte Fermentation" },
-      { value: "Feingeschmack", label: "Internationale Klasse" },
-      { value: "100%", label: "Losrückverfolgung" },
+      { value: "Feiner Geschmack", label: "Unser Schwerpunkt" },
+      { value: "Im Aufbau", label: "Rückverfolgbarkeit" },
     ],
   },
 
@@ -107,19 +107,19 @@ export const de: Translations = {
     label: "Plattformvision",
     title: "Eine Bewegung,\nkein Betrieb",
     subtitle:
-      "El Porvenir verbindet regenerative Produktion, eine Premium-Kakaomarke, vollständige Rückverfolgbarkeit und globale Partnerschaften zu einer vertikal kohärenten Plattform.",
+      "Wir bauen eine Plattform auf, die regenerative Produktion, eine Kakaomarke mit Herkunftsbezug, die Rückverfolgbarkeit von Chargen und internationale Partnerschaften verbinden soll.",
     pillars: [
       {
         title: "Produktion",
-        body: "Regenerative Betriebe unter gemeinsamen Protokollen. Lebendiger Boden, Agroforstsysteme, einheimische Genetik und keine synthetischen Inputs — dokumentiert in jedem Schritt.",
+        body: "Wir entwickeln regenerative Produktionsprotokolle mit Schwerpunkt auf lebendigem Boden, Agroforstsystemen und einheimischer Genetik. Wir verzichten auf synthetische Inputs und möchten jeden Schritt dokumentieren.",
       },
       {
         title: "Sacred Seed Marke",
-        body: "Der Premium-Ausdruck der Plattform. Feingeschmackiger Kakao mit vollständiger Lieferkette, direkter Herkunftsgeschichte und Positionierung für Europas und Nordamerikas anspruchsvollste Käufer.",
+        body: "Wir entwickeln eine Marke, die unsere Herkunft zum Ausdruck bringt. Unser Ziel sind Kakao mit feinem Geschmack, eine dokumentierte Lieferkette und Kontakte zu Käufern in Europa und Nordamerika.",
       },
       {
         title: "Globales Netzwerk",
-        body: "Aktive Beziehungen mit Importeuren, Feinchocolatiers, Forschungsinstitutionen und werteorientierten Investoren. Wir suchen keine Skalierung — wir suchen Ausrichtung.",
+        body: "Wir möchten Beziehungen zu Importeuren, Chocolatiers, Forschungseinrichtungen und Investoren aufbauen, die unsere Vision teilen.",
       },
     ],
   },
@@ -151,6 +151,6 @@ export const de: Translations = {
       "Feingeschmack-Kakao",
       "Kolumbianisches Hochlandursprung",
     ],
-    copyright: "© 2024 El Porvenir Bio Growers. Alle Rechte vorbehalten.",
+    copyright: "© 2026 El Porvenir Bio Growers. Alle Rechte vorbehalten.",
   },
 };

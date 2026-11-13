@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# El Porvenir Bio Growers
 
-## Getting Started
+Web informativa en español, inglés y alemán, construida con Next.js.
 
-First, run the development server:
+## Desarrollo local
 
-```bash
+Usar Node.js 22 LTS (`.nvmrc`) y npm:
+
+```sh
+npm ci
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Compilación y ejecución de producción
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+npm run build
+npm start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+La raíz redirige a `/es`. También están disponibles `/en` y `/de`.
+El contacto se realiza por correo y teléfono; esta versión no utiliza formulario, base de datos ni variables secretas de aplicación.
 
-## Learn More
+Las fuentes se descargan durante la compilación mediante `next/font` y se sirven desde la aplicación.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Ver [la guía de SiteGround](docs/SITEGROUND.md) para publicar la rama `release/siteground-informativa`, probar el dominio temporal y preparar el cambio del dominio definitivo.
